@@ -10,3 +10,9 @@ The project focuses on developing an interactive data visualization dashboard fo
 The dataset(Ecommerce Order & Supply Chain Dataset) used in the project is available on Kaggle website. All the details of tables and column names used in the project is given in dataset features.<br>
 https://www.kaggle.com/datasets/bytadit/ecommerce-order-dataset?resource=download
 
+# Glimpses of the Project
+![image](https://github.com/user-attachments/assets/5426ab0a-952e-4655-a121-f33716936360)
+![image](https://github.com/user-attachments/assets/9f2a9f9b-6650-4090-900a-5856fd74ade0)
+
+
+
